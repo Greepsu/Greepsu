@@ -30,9 +30,6 @@
 
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-f1f1f1?style=flat-square&logo=Vercel&logoColor=000000" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Vivaldi" src="https://img.shields.io/badge/-Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
-<br />
-<br />
-
 ## My Cards:
 
 <img src="https://github-readme-stats.vercel.app/api?username=greepsu&show_icons=true&hide=[%22stars%22]&show_private=true&theme=gotham&bg_color=0F0F0F" alt="greepsu github card" align="left" height="160" />
