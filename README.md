@@ -10,6 +10,7 @@
 - ✂️ I’m currently working on a **Rock Paper Scissors** multiplayer game.
 - 🌐 I'm currently using **Javascript, React and NodeJs** for my projects.
 - ☑️ I’m currently learning **TypeScript**.
+- 📅 I want learn **Next.js** and **Three.js**
 - 👯 I’m looking to collaborate on some cool project !
 - 🤔 I’m looking for any **tips** or **advice** on UI/UX design.
 - 💬 Ask me **anything** !
