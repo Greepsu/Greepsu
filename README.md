@@ -2,19 +2,19 @@
 
 ![greepsu header](images/header.png)
 
-🌍 I'm Arnaud, a self-taught passionate FrontEnd developer from France.<br />
+🌍 I'm Arnaud, a self-taught passionate Frontend developer from France.<br />
 💻 I'm an occasional UI/UX Designer who loves making high-quality websites and applications.
 
 ## About me:
 
-- ✂️ I’m currently working on a **Rock Paper Scissors** multiplayer game.
+- ✂️ I’m currently working on a **Rock Paper Scissors** online game.
 - 🌐 I'm currently using **Javascript, React and NodeJs** for my projects.
 - ☑️ I’m currently learning **TypeScript**.
 - 📅 I want learn **Next.js** and **Three.js**
 - 👯 I’m looking to collaborate on some cool project !
-- 🤔 I’m looking for any **tips** or **advice** on UI/UX design.
+- 🤔 I’m looking for any **tips** or **advice**.
 - 💬 Ask me **anything** !
-- 📖 I am a lover of **antic art** and **philosophy**
+- 📖 I am an **antic art** and **philosophy** lover.
 
 ## What I use:
 
@@ -24,11 +24,11 @@
 
 ### Back-end:
 
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/-Express-1f1f1f?style=flat-square&logo=Express&logoColor=f1f1f1" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-1f1f1f?style=flat-square&logo=Socket.io&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/-Express-1f1f1f?style=flat-square&logo=Express&logoColor=f1f1f1" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-1f1f1f?style=flat-square&logo=Socket.io&logoColor=white" />
 
 ### Tools:
 
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-f1f1f1?style=flat-square&logo=Vercel&logoColor=000000" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Vivaldi" src="https://img.shields.io/badge/-Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /> <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-f1f1f1?style=flat-square&logo=Vercel&logoColor=000000" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Vivaldi" src="https://img.shields.io/badge/-Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 ## My Cards:
 
