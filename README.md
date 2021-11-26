@@ -41,6 +41,7 @@
 ## Links and contact:
 
 <a href="https://github.com/greepsu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arnaud-magnon-314894224/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=0A66C2"/></a>
 <a href="https://www.instagram.com/greepsu_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584" /></a>
 <a href="https://portfolio-self-rho.vercel.app" target="_blank"><img alt="website" src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnaud.mgn@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&color=f5f5f5" /></a>
