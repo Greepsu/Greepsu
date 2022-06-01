@@ -7,7 +7,7 @@
 
 ## About me:
 
-- ✂️ I’m currently working on a **Uniswap** clone app.
+- ✂️ I’m currently working on a **Uniswap v3** clone app.
 - 🌐 I'm currently using **Javascript, Next.js and NodeJs** for my projects.
 - ☑️ I’m currently learning **TypeScript**.
 - 📅 I want learn **Solidity** and **Three.js**
