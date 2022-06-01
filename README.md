@@ -7,14 +7,14 @@
 
 ## About me:
 
-- ✂️ I’m currently working on a **Rock Paper Scissors** online game.
-- 🌐 I'm currently using **Javascript, React and NodeJs** for my projects.
+- ✂️ I’m currently working on a **Uniswap** clone app.
+- 🌐 I'm currently using **Javascript, Next.js and NodeJs** for my projects.
 - ☑️ I’m currently learning **TypeScript**.
-- 📅 I want learn **Next.js** and **Three.js**
+- 📅 I want learn **Solidity** and **Three.js**
 - 👯 I’m looking to collaborate on some cool project !
 - 🤔 I’m looking for any **tips** or **advice**.
+- 🔺 I am an **crypto** and **blockchain** addict.
 - 💬 Ask me **anything** !
-- 📖 I am an **antic art** and **philosophy** lover.
 
 ## What I use:
 
